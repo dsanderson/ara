@@ -1,0 +1,5 @@
+*.jl
+scraperapi.py
+old/
+venv/
+__pycache__
